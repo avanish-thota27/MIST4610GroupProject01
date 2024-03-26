@@ -17,7 +17,7 @@
 The current scenario involves creating a relational database for a tennis club to ensure all data is properly allocated, and the business runs smoothly and efficiently. The majority of the model is centered around the entity “Members”. Members are at the forefront of the business since they determine which transactions take place, what divisions and leagues to join, what courts to reserve in conjunction with the coaches, which coaching programs to be a part of, and more. In addition to members, the club also employs a variety of general staff employees who can fulfill maintenance requests on various courts. The goal of the model is to accurately use and generate data, show the relationships between the various entities, and allow for queries to promptly be asked and solved to easily allow the analysis of data.
 
 
-## Explanation of our data model: 
+## Data Model: 
 
 ![ourClientsResponseimage](https://github.com/nickprice347/MIST4610-Project-1/assets/163012519/ac31fd9e-b18b-409f-bef1-92db0003b880)
 
