@@ -17,6 +17,42 @@
 <img width="772" alt="Screenshot 2024-03-26 at 5 51 51 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/765e4279-1ee5-4eb9-9e5a-aa4f669914ec">
 
 
+
+
+
+
+
+
+Query 5
+
+<img width="737" alt="Screenshot 2024-03-26 at 4 39 12 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/fb9599b5-ca96-41b3-bd54-df94f33dee78">
+
+
+
+Query 6
+
+<img width="425" alt="Screenshot 2024-03-26 at 4 58 10 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/35134449-5037-4cab-b4b9-8be93ba7570c">
+
+
+
+<img width="838" alt="Screenshot 2024-03-26 at 6 11 26 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/a25ed783-fe07-4ee0-88b3-66d7d8b01f7c">
+
+
+
+
+<img width="635" alt="Screenshot 2024-03-26 at 6 13 59 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/3b30941c-eb27-4828-b30b-899e8d19d404">
+
+
+
+
+
+
+<img width="773" alt="Screenshot 2024-03-26 at 6 15 22 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/c2310253-d570-4265-8455-706a5613ffb2">
+
+
+<img width="480" alt="Screenshot 2024-03-26 at 6 15 41 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/6547e719-960c-4b7a-9264-2e59c756e53a">
+
+
 ## Database Information
 Name of our database: ns_Sp24_61608_Group5
 
